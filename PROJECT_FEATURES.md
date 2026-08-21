@@ -5,3 +5,7 @@ As a customer I want to log in using my registered phone number and password so 
 
 
 
+## T-30: Admin login
+As an Admin I want to log in using my registered phone number and password so that I can securely access the admin dashboard.
+**Status: Implemented**
+
