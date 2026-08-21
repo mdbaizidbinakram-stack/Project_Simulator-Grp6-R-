@@ -3,3 +3,6 @@
 As a customer I want to log in using my registered phone number and password so that I can securely access my personalized customer dashboard.
 **Status Implemented**
 
+As an Admin I want to log in using my registered phone number and password so that I can securely access the admin dashboard.
+**Status: Implemented**
+
